@@ -8,7 +8,7 @@ The website for the national fraternity can be found at
 
 ## License
 
-Copyright &copy; 2013
+&copy; 2014
 [Josh Branchaud](http://joshbranchaud.com)
 under the MIT license. Details can be found in
 [LICENSE](https://github.com/BetaSigmaPsi/delta-website/blob/master/LICENSE).
